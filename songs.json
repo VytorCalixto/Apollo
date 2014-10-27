@@ -1,0 +1,541 @@
+[
+	{
+		"artist":"alabama shakes",
+		"albums":[
+			{"name":"boys and girls"}
+		]
+	},
+	{
+		"artist":"antiteses",
+		"albums":[
+			{"name":"desamores"}
+		]
+	},
+	{
+		"artist":"apanhador só",
+		"albums":[
+			{"name":"apanhador só"},
+			{"name":"acústico sucateiro"},
+			{"name":"paraquedas"},
+			{"name":"antes que tu conte outra"}
+		]
+	},
+	{
+		"artist":"arctic monkeys",
+		"albums":[
+			{"name":"am"},
+			{"name":"favourite worst nightmare"},
+			{"name":"humbug"},
+			{"name":"suck it and see"},
+			{"name":"whatever people say i am, that's what i'm not"}
+		]
+	},
+	{
+		"artist":"beeshop",
+		"albums":[
+			{"name":"the rise and fall of beeshop"}
+		]
+	},
+	{
+		"artist":"black sabbath",
+		"albums":[
+			{"name":"13"},
+			{"name":"black sabbath"},
+			{"name":"paranoid"},
+			{"name":"vol 4"},
+			{"name":"master of reality"},
+			{"name":"never say die"},
+			{"name":"sabbath bloddy sabbath"}
+		]
+	},
+	{
+		"artist":"baroness",
+		"albums":[
+			{"name":"yellow and green"}
+		]
+	},
+	{
+		"artist":"the beatles",
+		"albums":[
+			{"name":"1"},
+			{"name":"Sgt. Peppers Lonely Hearts Club Band"},
+			{"name":"Yellow Submarine"}
+		]
+	},
+	{
+		"artist":"bring me the horizon",
+		"albums":[
+			{"name":"sempternal"}
+		]
+	},
+	{
+		"artist":"cambriana",
+		"albums":[
+			{"name":"house of tolerance"},
+			{"name":"worker"}
+		]
+	},
+	{
+		"artist":"chet baker",
+		"albums":[
+			{"name":"let's get lost"}
+		]
+	},
+	{
+		"artist":"the clash",
+		"albums":[
+			{"name":"london calling"}
+		]
+	},
+	{
+		"artist":"cloud nothings",
+		"albums":[
+			{"name":"attack on memory"},
+			{"name":"here and nowhere else"}
+		]
+	},
+	{
+		"artist":"coheed and cambria",
+		"albums":[
+			{"name":"the afterman: ascension"},
+			{"name":"the afterman: descension"}
+		]
+	},
+	{
+		"artist":"daft punk",
+		"albums":[
+			{"name":"random access memory"}
+		]
+	},
+	{
+		"artist":"the doors",
+		"albums":[
+			{"name":"the very best of the doors"},
+			{"name":"morrisson hotel"},
+			{"name":"waiting for the sun"}
+		]
+	},
+	{
+		"artist":"ed sherran",
+		"albums":[
+			{"name":"x"},
+			{"name":"+"}
+		]
+	},
+	{
+		"artist":"the baggios",
+		"albums":[
+			{"name":"sina"},
+			{"name":"the baggios"}
+		]
+	},
+	{
+		"artist":"the black keys",
+		"albums":[
+			{"name":"brothers"}
+		]
+	},
+	{
+		"artist":"the stypes",
+		"albums":[
+			{"name":"snapshot"}
+		]
+	},
+	{
+		"artist":"engenheiros do hawaii",
+		"albums":[
+			{"name":"acústico mtv"},
+			{"name":"a revolta dos dândis"},
+			{"name":"surfando karmas e dna"}
+		]
+	},
+	{
+		"artist":"esteban",
+		"albums":[
+			{"name":"adiós, esteban"},
+			{"name":"smokers in airplanes"}
+		]
+	},
+	{
+		"artist":"fall out boy",
+		"albums":[
+			{"name":"save rock and roll"}
+		]
+	},
+	{
+		"artist":"foals",
+		"albums":[
+			{"name":"holy fire"}
+		]
+	},
+	{
+		"artist":"foo fighters",
+		"albums":[
+			{"name":"echos, silence, patience and grace"},
+			{"name":"in your honor"},
+			{"name":"there is nothing left to lose"},
+			{"name":"wasting light"}
+		]
+	},
+	{
+		"artist":"fresno",
+		"albums":[
+			{"name":"infinito"},
+			{"name":"cemitério das boas intenções"}
+		]
+	},
+	{
+		"artist":"gary clark jr",
+		"albums":[
+			{"name":"black and blue"}
+		]
+	},
+	{
+		"artist":"ghost",
+		"albums":[
+			{"name":"infestissumam"}
+		]
+	},
+	{
+		"artist":"graveyard",
+		"albums":[
+			{"name":"lights out"}
+		]
+	},
+	{
+		"artist":"inky",
+		"albums":[
+			{"name":"parallels"}
+		]
+	},
+	{
+		"artist":"iron maiden",
+		"albums":[
+			{"name":"dance of death"},
+			{"name":"the final frontier"}
+		]
+	},
+	{
+		"artist":"jack white",
+		"albums":[
+			{"name":"lazaretto"},
+			{"name":"blunderbuss"}
+		]
+	},
+	{
+		"artist":"the jimi hendrix experience",
+		"albums":[
+			{"name":"are you experienced"},
+			{"name":"eletric ladyland"}
+		]
+	},
+	{
+		"artist":"john coltrane",
+		"albums":[
+			{"name":"coltrane's sound"},
+			{"name":"the very best of john coltrane"}
+		]
+	},
+	{
+		"artist":"john mayer",
+		"albums":[
+			{"name":"battle studies"},
+			{"name":"born and raised"},
+			{"name":"continuum"},
+			{"name":"paradise valley"},
+			{"name":"where the light is"}
+		]
+	},
+	{
+		"artist":"johnny cash",
+		"albums":[
+			{"name":"the man in black - best of"},
+			{"name":"out among the stars"}
+		]
+	},
+	{
+		"artist":"kavinsky",
+		"albums":[
+			{"name":"outrun"}
+		]
+	},
+	{
+		"artist":"the killers",
+		"albums":[
+			{"name":"direct hits (deluxe edition)"}
+		]
+	},
+	{
+		"artist":"kings of leon",
+		"albums":[
+			{"name":"supersoaker"},
+			{"name":"come around sundown"},
+			{"name":"only by the night"}
+		]
+	},
+	{
+		"artist":"kung fu johnny",
+		"albums":[
+			{"name":"too drunk too think"}
+		]
+	},
+	{
+		"artist":"led zeppelin",
+		"albums":[
+			{"name":"led zeppelin"},
+			{"name":"led zeppelin ii"},
+			{"name":"led zeppelin iii"},
+			{"name":"led zeppelin iv"},
+			{"name":"houses of the holy"},
+			{"name":"physical graffiti"},
+			{"name":"presence"},
+			{"name":"in through the out door"},
+			{"name":"coda"},
+			{"name":"the song remains the same"},
+			{"name":"celebration day"}
+		]
+	},
+	{
+		"artist":"mahmed",
+		"albums":[
+			{"name":"dominio das águas e do céu"}
+		]
+	},
+	{
+		"artist":"mahmundi",
+		"albums":[
+			{"name":"setembro"}
+		]
+	},
+	{
+		"artist":"the maine",
+		"albums":[
+			{"name":"forever halloween"},
+			{"name":"good love - the pioneer b sides"},
+			{"name":"pioneer"},
+			{"name":"black and white"}
+		]
+	},
+	{
+		"artist":"medulla",
+		"albums":[
+			{"name":"o homem bom"},
+			{"name":"capital erótico"}
+		]
+	},
+	{
+		"artist":"menores atos",
+		"albums":[
+			{"name":"animalia"}
+		]
+	},
+	{
+		"artist":"miles davis",
+		"albums":[
+			{"name":"kind of blue"}
+		]
+	},
+	{
+		"artist":"muddy waters",
+		"albums":[
+			{"name":"hard again"}
+		]
+	},
+	{
+		"artist":"muse",
+		"albums":[
+			{"name":"absolution"},
+			{"name":"black holes and revelations"},
+			{"name":"origin of symmetry"},
+			{"name":"the 2nd law"},
+			{"name":"the resistence"}
+		]
+	},
+	{
+		"artist":"nirvana",
+		"albums":[
+			{"name":"nevermind"}
+		]
+	},
+	{
+		"artist":"pink floyd",
+		"albums":[
+			{"name":"the dark side of the moon"},
+			{"name":"the wall"},
+			{"name":"animals"},
+			{"name":"wish you were here"},
+			{"name":"meddle"},
+			{"name":"the division bell"},
+			{"name":"the piper at the gates of dawn"},
+			{"name":"obscured by clouds"},
+			{"name":"a momentary lapse of reason"},
+			{"name":"more"}
+		]
+	},
+	{
+		"artist":"the pretty reckless",
+		"albums":[
+			{"name":"going to hell"},
+			{"name":"light me up"}
+		]
+	},
+	{
+		"artist":"queen",
+		"albums":[
+			{"name":"a day at the races"},
+			{"name":"a kind of magic"},
+			{"name":"a night at the opera"},
+			{"name":"news of the world"},
+			{"name":"greatest hits ii"}
+		]
+	},
+	{
+		"artist":"the raconteurs",
+		"albums":[
+			{"name":"broken boy soldier"},
+			{"name":"consolers of the lonely"}
+		]
+	},
+	{
+		"artist":"red hot chili peppers",
+		"albums":[
+			{"name":"californication"},
+			{"name":"stadium arcadium"}
+		]
+	},
+	{
+		"artist":"rival sons",
+		"albums":[
+			{"name":"great western valkyrie"},
+			{"name":"before the fire"},
+			{"name":"head down"},
+			{"name":"pressure and time"},
+			{"name":"rival sons"}
+		]
+	},
+	{
+		"artist":"ruído/mm",
+		"albums":[
+			{"name":"rasura"}
+		]
+	},
+	{
+		"artist":"silva",
+		"albums":[
+			{"name":"claridão"},
+			{"name":"vista pro mar"}
+		]
+	},
+	{
+		"artist":"sleeping with sirens",
+		"albums":[
+			{"name":"if you were a movie, this would be your soundtrack"}
+		]
+	},
+	{
+		"artist":"slvdr",
+		"albums":[
+			{"name":"fera vischer"}
+		]
+	},
+	{
+		"artist":"the smiths",
+		"albums":[
+			{"name":"the sound of the smiths"}
+		]
+	},
+	{
+		"artist":"soulstripper",
+		"albums":[
+			{"name":"as garotas e todosos problemas que vem com elas"},
+			{"name":"toda garota bonita tem o que quer"}
+		]
+	},
+	{
+		"artist":"soulvenir",
+		"albums":[
+			{"name":"galaxyspecies"}
+		]
+	},
+	{
+		"artist":"sound bullet",
+		"albums":[
+			{"name":"ninguém está sozinho"}
+		]
+	},
+	{
+		"artist":"sound city",
+		"albums":[
+			{"name":"soundcity"}
+		]
+	},
+	{
+		"artist":"steve ray vaughan and double trouble",
+		"albums":[
+			{"name":"texas flood"},
+			{"name":"the real deal: greatest hits vol. 1"},
+			{"name":"the real dela: greatest hits vol. 2"}
+		]
+	},
+	{
+		"artist":"tame impala",
+		"albums":[
+			{"name":"innerspeaker"},
+			{"name":"lonerism"}
+		]
+	},
+	{
+		"artist":"temples",
+		"albums":[
+			{"name":"sun structures"}
+		]
+	},
+	{
+		"artist":"them crooked vultures",
+		"albums":[
+			{"name":"them crooked vultures"}
+		]
+	},
+	{
+		"artist":"tiago iorc",
+		"albums":[
+			{"name":"zeski"}
+		]
+	},
+	{
+		"artist":"tópaz",
+		"albums":[
+			{"name":"nós somos os piores"},
+			{"name":"iii"},
+			{"name":"onze nós"},
+			{"name":"outra direção"}
+		]
+	},
+	{
+		"artist":"van halen",
+		"albums":[
+			{"name":"van halen"},
+			{"name":"1984"},
+			{"name":"a different kind of truth"}
+		]
+	},
+	{
+		"artist":"the white stripes",
+		"albums":[
+			{"name":"elephant"}
+		]
+	},
+	{
+		"artist":"the who",
+		"albums":[
+			{"name":"quadrophenia"},
+			{"name":"ultimate collection"}
+		]
+	},
+	{
+		"artist":"yoko shimomura",
+		"albums":[
+			{"name":"piano collections kingdom hearts"}
+		]
+	}
+]
