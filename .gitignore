@@ -52,3 +52,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+*.swp
+*.swa
+*.json
+!songs.json
