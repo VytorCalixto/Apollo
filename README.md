@@ -10,7 +10,7 @@ Example of an Apollo library:
         "artist": "led zeppelin",
         "albums":[
             {"name":"led zeppelin i", "release-year":"1969", "remastered":"false"},
-            {"name":"led zeppelin ii", "release-year":"1969", "remasterd":"true"}
+            {"name":"led zeppelin ii", "release-year":"1969", "remastered":"true"}
         ]
     },
     {
@@ -22,7 +22,7 @@ Example of an Apollo library:
     {
         "artist":"tom jobim",
         "albums":[
-            {"name":"wave", "release-year":"1967", "remasterd":"false"}
+            {"name":"wave", "release-year":"1967", "remastered":"false"}
         ]
     }
 ]
@@ -52,5 +52,5 @@ Apollo is still under development. Feel free to help.
 * Edit Json inside Apollo
 * Set folders where Apollo will monitor your musics. If you add something new, it'll know
 * Organize your musical library
-* If you imported a new library, show which tracks/albums are missing and let you (if possible) download them
-* Export folders as a Apollo library (json file)
+* If you have imported a new library, show which tracks/albums are missing and let you (if possible) download them
+* Export folders as an Apollo library (json file)
