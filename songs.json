@@ -6,7 +6,7 @@
 		]
 	},
 	{
-		"artist":"antiteses",
+		"artist":"antíteses",
 		"albums":[
 			{"name":"desamores"}
 		]
@@ -65,7 +65,7 @@
 	{
 		"artist":"bring me the horizon",
 		"albums":[
-			{"name":"sempternal"}
+			{"name":"sempiternal"}
 		]
 	},
 	{
@@ -116,7 +116,7 @@
 		]
 	},
 	{
-		"artist":"ed sherran",
+		"artist":"ed sheeran",
 		"albums":[
 			{"name":"x"},
 			{"name":"+"}
@@ -132,11 +132,11 @@
 	{
 		"artist":"the black keys",
 		"albums":[
-			{"name":"brothers"}
+			{"name":"brother"}
 		]
 	},
 	{
-		"artist":"the stypes",
+		"artist":"the strypes",
 		"albums":[
 			{"name":"snapshot"}
 		]
@@ -311,7 +311,7 @@
 		"artist":"the maine",
 		"albums":[
 			{"name":"forever halloween"},
-			{"name":"good love - the pioneer b sides"},
+			{"name":"good love"},
 			{"name":"pioneer"},
 			{"name":"black and white"}
 		]
@@ -447,7 +447,7 @@
 	{
 		"artist":"soulstripper",
 		"albums":[
-			{"name":"as garotas e todosos problemas que vem com elas"},
+			{"name":"as garotas e todos os problemas que vem com elas"},
 			{"name":"toda garota bonita tem o que quer"}
 		]
 	},

@@ -21,5 +21,6 @@ setup(
         'colorama>=0.3.2',    
     ],
     packages=['apollo_pkg'],
-    entry_points=dict(console_scripts=['apollo = apollo_pkg:main.main'])
+    entry_points=dict(console_scripts=['apollo = apollo_pkg:main.main']),
+    license="MIT"
 )
